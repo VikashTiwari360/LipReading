@@ -13,7 +13,7 @@ start=int(sys.argv[1])
 end=int(sys.argv[2])
 
 
-path='/home/mdo2/LipReading/GRID'
+path='/home/admin2/LipReading/GRID'
 os.system('mkdir -p ' + path)
 os.system('mkdir -p ' + path + '/Video')
 
